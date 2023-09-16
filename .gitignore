@@ -1,0 +1,8 @@
+factory_method/.gradle/
+factory_method/.idea/
+factory_method/bin/
+factory_method/build/
+factory_method/gradle/
+factory_method/gradlew
+factory_method/gradlew.bat
+factory_method/settings.gradle
